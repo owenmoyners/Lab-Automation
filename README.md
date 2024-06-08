@@ -1,7 +1,7 @@
 # Lab-Automation
-Programs for automated lab testing (Python and LabView) 
+Programs for automated lab testing (Python), primarily using Keithley 2602A, Aligent TLS, Thorlabs optical power meter
 
-Currently using python and LabView to make test scripts for my PhD - These tests are designed for testing different types of optoelectronic devices (LED's, Lasers, modulators etc)
+Automated programs for testing optoelectornic devices, such as lasers, modulators and detectors.
 
 
-Tests include IV, LIV, Transmission vs wavelength sweeps and more
+Tests include: IV, LIV, Transmission vs wavelength, (photo)current vs wavelength, Power vs transmission 
