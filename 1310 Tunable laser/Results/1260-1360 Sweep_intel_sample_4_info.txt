@@ -1,2 +1,0 @@
-Name of tester: owen.moynihanDate: 2021-12-22Time: 16:57:59TUNEABLE LASER = HEWLETT-PACKARD,HP8167B,DE37600258,6.02
-Power Meter = ('844-PE-USB', 'FF2.07', '991112')
